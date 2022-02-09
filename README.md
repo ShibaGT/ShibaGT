@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @ShibaAKA
-- 👀 I’m interested in roblox exploits and stuff
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me on discord: shiba#4920
+- this is my github for random stuff i make :)
