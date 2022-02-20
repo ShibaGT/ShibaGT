@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ShibaAKA
+- 👋 Hi, I’m ShibaGT
 - this is my github for random stuff i make :)
