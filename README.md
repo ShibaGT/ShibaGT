@@ -7,7 +7,7 @@ Founder @ **shibagt corp**
 ### 🎮 i mainly mod Gorilla Tag (yes, the monkey game)
 i make things go *boom*, *fly*, *vanish*, and sometimes even *work properly*.  
 
-people usually know me for the **ShibaGT Products™**:  
+people usually know me for the **ShibaGT Products**:  
 > → **XYZ** - the classic  
 > → **Dark** - da best free menu of its time  
 > → **Gold** - shiny & first paid edition  
